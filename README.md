@@ -1,7 +1,37 @@
-- 👋 Hi, I’m @edfsosa
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning Java, CSS, HTML and SQL.
-- 📫 My phone number is +595 991 192301 and my email edfsosa@outlook.com
+# ¡Hola! Soy Edgar Franco 👋
+
+Desarrollador web en constante evolución. Apasionado por crear soluciones impactantes con código limpio y eficiente. 
+
+## 🔧 Tecnologías y herramientas que domino
+
+* HTML, CSS
+* JavaScript, Node.js
+* PHP, Laravel
+* SQL, MySQL, SQL Server
+* Git, GitHub
+
+## 🚀 Mis proyectos destacados
+
+* [Proyecto Portafolio Personal] - Muestra de mis habilidades y experiencia en desarrollo web.
+* [Proyecto Aplicación de Gestión de Tareas] - Aplicación para organizar y gestionar tareas pendientes.
+* [Proyecto Blog Personal] - Plataforma para compartir mis conocimientos y experiencias.
+
+## 🌱 Actualmente aprendiendo
+
+* React
+* Express.js
+* Bases de datos NoSQL
+
+## 📫 Cómo contactarme
+
+* edfsosa@outlook.com 
+* [LinkedIn](https://www.linkedin.com/in/edfsosa/)
+* [WhatsApp](wa.me/595991192301)
+
+## ⚡ Datos curiosos 
+
+* 🎧 Amante de la música y del fútbol.
+* 📚 Siempre leyendo sobre nuevas tecnologías y tendencias.
 
 <!---
 edfsosa/edfsosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
