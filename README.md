@@ -26,7 +26,7 @@ Desarrollador web en constante evolución. Apasionado por crear soluciones impac
 
 * edfsosa@outlook.com 
 * [LinkedIn](https://www.linkedin.com/in/edfsosa/)
-* [WhatsApp](wa.me/595991192301)
+* [WhatsApp](https://api.whatsapp.com/send/?phone=595991192301&text&type=phone_number&app_absent=0)
 
 ## ⚡ Datos curiosos 
 
