@@ -1,39 +1,37 @@
-# ¡Hola! Soy Edgar Franco 👋
+# Hola, soy Edgar 👋
 
-Desarrollador web en constante evolución. Apasionado por crear soluciones impactantes con código limpio y eficiente. 
+Soy desarrollador web full stack de **Areguá, Paraguay 🇵🇾**, apasionado por construir herramientas que le simplifican la vida a las pequeñas y medianas empresas.
 
-## 🔧 Tecnologías y herramientas que domino
+Fundé NextUp, donde desarrollo SaaS enfocados en el mercado local. Me gusta que las cosas funcionen bien, sean fáciles de usar y estén listas para producción.
 
-* HTML, CSS
-* JavaScript, Node.js
-* PHP, Laravel
-* SQL, MySQL, SQL Server
-* Git, GitHub
+---
 
-## 🚀 Mis proyectos destacados
+## 🛠️ Mi stack
 
-* [Proyecto Portafolio Personal] - Muestra de mis habilidades y experiencia en desarrollo web.
-* [Proyecto Aplicación de Gestión de Tareas] - Aplicación para organizar y gestionar tareas pendientes.
-* [Proyecto Blog Personal] - Plataforma para compartir mis conocimientos y experiencias.
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-## 🌱 Actualmente aprendiendo
+Trabajo principalmente con el **TALL stack** (Tailwind, Alpine.js, Laravel, Livewire) y **Filament** como panel de administración.
 
-* React
-* Express.js
-* Bases de datos NoSQL
+---
 
-## 📫 Cómo contactarme
+## 🚀 Proyectos destacados
 
-* edfsosa@outlook.com 
-* [LinkedIn](https://www.linkedin.com/in/edfsosa/)
-* [WhatsApp](https://api.whatsapp.com/send/?phone=595991192301&text&type=phone_number&app_absent=0)
+### 📋 [Nominapp](https://github.com/edfsosa/nominapp)
+Sistema de gestión de recursos humanos diseñado para empresas paraguayas.  
+Cubre marcación de asistencia, nómina, contratos y más — con soporte para las particularidades del código laboral local.
 
-## ⚡ Datos curiosos 
+### 🐾 [Laravet](https://github.com/edfsosa/laravet)
+Sistema de gestión para clínicas veterinarias.  
+Pensado para que los veterinarios se enfoquen en los pacientes y no en el papeleo.
 
-* 🎧 Amante de la música y del fútbol.
-* 📚 Siempre leyendo sobre nuevas tecnologías y tendencias.
+---
 
-<!---
-edfsosa/edfsosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Contacto
+
+- 💼 **LinkedIn:** [linkedin.com/in/edfsosa](https://www.linkedin.com/in/edfsosa/)
+- 📧 **Email:** edfsosa@gmail.com
